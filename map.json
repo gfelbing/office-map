@@ -1519,7 +1519,7 @@
          "margin":0,
          "name":"exit",
          "spacing":0,
-         "tilecount":64,
+         "tilecount":1,
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#ff00ff"

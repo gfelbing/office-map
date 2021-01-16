@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/corridor-map\/map.json#front_of_office"
+                 "value":".\/elevator.json#startOffice"
                 }],
          "type":"tilelayer",
          "visible":true,
